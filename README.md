@@ -1,4 +1,5 @@
 # Python Practice
 
-- [X] helloworld
-- [X] print_42
+- [X] Hello World
+- [X] Print 42
+- [X] Number of seconds in a year

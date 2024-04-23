@@ -9,3 +9,4 @@
 - [X] Square Numbers
 - [X] Powers of Two
 - [X] Import
+- [X] Comparisons

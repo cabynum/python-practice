@@ -8,3 +8,4 @@
 - [X] Fix Indentation
 - [X] Square Numbers
 - [X] Powers of Two
+- [X] Import

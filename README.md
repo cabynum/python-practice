@@ -6,3 +6,4 @@
 - [X] Using Operators
 - [X] Characters Counting
 - [X] Fix Indentation
+- [X] Square Numbers

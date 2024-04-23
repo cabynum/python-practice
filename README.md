@@ -7,3 +7,4 @@
 - [X] Characters Counting
 - [X] Fix Indentation
 - [X] Square Numbers
+- [X] Powers of Two

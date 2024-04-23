@@ -10,3 +10,4 @@
 - [X] Powers of Two
 - [X] Import
 - [X] Comparisons
+- [X] Counting Words

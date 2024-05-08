@@ -12,3 +12,4 @@
 - [X] Comparisons
 - [X] Counting Words
 - [X] Fix is_anagram
+- [X] First Function

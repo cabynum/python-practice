@@ -1,8 +1,8 @@
 # Python Practice
 
-[X] Hello World
-[X] Print 42
-[X] Number of seconds in a year
+- [X] Hello World
+- [X] Print 42
+- [X] Number of seconds in a year
 - [X] Using Operators
 - [X] Characters Counting
 - [X] Fix Indentation
@@ -14,70 +14,70 @@
 - [X] Fix is_anagram
 - [X] First Function
 - [X] Print even numbers
-[] Sum of even numbers <= 100
-- [] Multiples of 3 and 5
-- [] Temperatures
-- [] Print every two letters pairs
-- [] Print every pair of distinct letters
-- [] Longest word
-- [] Print sorbet flavors
-- [] Distance
-- [] Sets of love
-- [] Sort students
-- [] Check if a number is prime
-- [] Sum of every prime number below n
-- [] Print every prime numbers in a range
-- [] Next prime
-- [] Reverse Roman Numerals
-- [] Select students
-- [] Friday the 13th
-- [] The missing card
-- [] Playing with anagrams
-- [] Dyck words
-- [] Currency
-- [] Flatten lists
-- [] Perfect deck shuffle
-- [] The Fibonacci sequence
-- [] Hearts emojis
-- [] Exceptions
-- [] Display the date and time
-- [] Print the content of a file
-- [] Text framing
-- [] Draw N Squares
-- [] Pernicious numbers
-- [] Adam Number
-- [] Product of iterable
-- [] Count the lower 'e' in the 'words' file
-- [] Is divisible by ?
-- [] Student class
-- [] Frequency of letters in a file
-- [] Doing HTTP requests
-- [] Print battery charge
-- [] Side by side
-- [] Largest product in a series
-- [] Format your output
-- [] Roman Numerals
-- [] Lambda expressions
-- [] Caesar Cypher
-- [] Longest Collatz sequence
-- [] Largest product in a grid
-- [] Break a safe
-- [] Password Generator
-- [] bencode, bdecode
-- [] Restaurant menu
-- [] Py Master Mind
-- [] Elementary cellular automaton
-- [] Temperature class
-- [] Abelian sandpiles
-- [] CSV and Python
-- [] Sequence Mining
-- [] Change for 42€
-- [] Pascal's triangle
-- [] IRC logs as CSV
-- [] Make your own 2048 in Python!
-- [] Print parameters
-- [] Print the first parameter
-- [] Simple adder
-- [] Calculator
-- [] Fir tree
-- [] Dirichlet solver
+- [ ] Sum of even numbers <= 100
+- [ ] Multiples of 3 and 5
+- [ ] Temperatures
+- [ ] Print every two letters pairs
+- [ ] Print every pair of distinct letters
+- [ ] Longest word
+- [ ] Print sorbet flavors
+- [ ] Distance
+- [ ] Sets of love
+- [ ] Sort students
+- [ ] Check if a number is prime
+- [ ] Sum of every prime number below n
+- [ ] Print every prime numbers in a range
+- [ ] Next prime
+- [ ] Reverse Roman Numerals
+- [ ] Select students
+- [ ] Friday the 13th
+- [ ] The missing card
+- [ ] Playing with anagrams
+- [ ] Dyck words
+- [ ] Currency
+- [ ] Flatten lists
+- [ ] Perfect deck shuffle
+- [ ] The Fibonacci sequence
+- [ ] Hearts emojis
+- [ ] Exceptions
+- [ ] Display the date and time
+- [ ] Print the content of a file
+- [ ] Text framing
+- [ ] Draw N Squares
+- [ ] Pernicious numbers
+- [ ] Adam Number
+- [ ] Product of iterable
+- [ ] Count the lower 'e' in the 'words' file
+- [ ] Is divisible by ?
+- [ ] Student class
+- [ ] Frequency of letters in a file
+- [ ] Doing HTTP requests
+- [ ] Print battery charge
+- [ ] Side by side
+- [ ] Largest product in a series
+- [ ] Format your output
+- [ ] Roman Numerals
+- [ ] Lambda expressions
+- [ ] Caesar Cypher
+- [ ] Longest Collatz sequence
+- [ ] Largest product in a grid
+- [ ] Break a safe
+- [ ] Password Generator
+- [ ] bencode, bdecode
+- [ ] Restaurant menu
+- [ ] Py Master Mind
+- [ ] Elementary cellular automaton
+- [ ] Temperature class
+- [ ] Abelian sandpiles
+- [ ] CSV and Python
+- [ ] Sequence Mining
+- [ ] Change for 42€
+- [ ] Pascal's triangle
+- [ ] IRC logs as CSV
+- [ ] Make your own 2048 in Python!
+- [ ] Print parameters
+- [ ] Print the first parameter
+- [ ] Simple adder
+- [ ] Calculator
+- [ ] Fir tree
+- [ ] Dirichlet solver

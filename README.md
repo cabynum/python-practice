@@ -1,8 +1,8 @@
 # Python Practice
 
-- [X] Hello World
-- [X] Print 42
-- [X] Number of seconds in a year
+[X] Hello World
+[X] Print 42
+[X] Number of seconds in a year
 - [X] Using Operators
 - [X] Characters Counting
 - [X] Fix Indentation
@@ -14,7 +14,7 @@
 - [X] Fix is_anagram
 - [X] First Function
 - [X] Print even numbers
-- [] Sum of even numbers <= 100
+[] Sum of even numbers <= 100
 - [] Multiples of 3 and 5
 - [] Temperatures
 - [] Print every two letters pairs

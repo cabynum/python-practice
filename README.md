@@ -13,3 +13,4 @@
 - [X] Counting Words
 - [X] Fix is_anagram
 - [X] First Function
+- [X] Print even numbers
